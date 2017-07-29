@@ -1,0 +1,2 @@
+# HaskellHacks
+Some demonstration codes
